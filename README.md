@@ -11,4 +11,11 @@
 
 
 <!--START_SECTION:badges-->
+[![Oracle Certified Professional: Java SE 11 Developer](https://images.credly.com/size/110x110/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png)](http://www.credly.com/badges/4c4d6890-c3d7-4a08-beb5-f7beccde2616 "Oracle Certified Professional: Java SE 11 Developer")
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/4ee5fa6f-b58b-4d7b-9b64-f57756b62361 "AWS Certified Solutions Architect – Associate")
+[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/2d90c9b4-74f2-46cd-bf29-081cb73735fa "AWS Certified Developer – Associate")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/527acd44-a7f1-4db7-88f9-8ac6a29dcbaa "Microsoft Certified: Azure Fundamentals")
+[![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/1b92607e-def3-4005-bb8d-fb62c3477914 "Microsoft Certified: Azure Developer Associate")
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/2d08752a-612c-4a31-8b95-10ef5fb92275 "CKAD: Certified Kubernetes Application Developer")
+[![Oracle Certified Professional, Java SE 6 Programmer](https://images.credly.com/size/110x110/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png)](http://www.credly.com/badges/c74a9648-7750-4582-8c25-b2cd4515dc3a "Oracle Certified Professional, Java SE 6 Programmer")
 <!--END_SECTION:badges-->
