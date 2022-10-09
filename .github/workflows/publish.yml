@@ -1,0 +1,14 @@
+name: Credly Badge
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: ravi-kumar-singh.b75bc132
