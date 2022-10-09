@@ -3,15 +3,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravikrs" alt="ravikrs" /> </p>
 I am a software engineer working primarily as a Java/Spring Developer.
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikrs&theme=dark" alt="ravikrs" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikrs&show_icons=true&locale=en&layout=compact&theme=dark" alt="ravikrs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikrs&show_icons=true&locale=en&theme=dark" alt="ravikrs" /></p>
-
-<br />
 
 ## Certifications :trophy:
 
@@ -24,6 +15,16 @@ I am a software engineer working primarily as a Java/Spring Developer.
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/4ee5fa6f-b58b-4d7b-9b64-f57756b62361 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/2d90c9b4-74f2-46cd-bf29-081cb73735fa "AWS Certified Developer – Associate")
 <!--END_SECTION:badges-->
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikrs&theme=dark" alt="ravikrs" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikrs&show_icons=true&locale=en&layout=compact&theme=dark" alt="ravikrs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikrs&show_icons=true&locale=en&theme=dark" alt="ravikrs" /></p>
+
+<br />
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
