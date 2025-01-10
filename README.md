@@ -18,8 +18,6 @@ I am a software engineer working primarily as a Java/Spring Developer.
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikrs&theme=dark" alt="ravikrs" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikrs&show_icons=true&locale=en&layout=compact&theme=dark" alt="ravikrs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikrs&show_icons=true&locale=en&theme=dark" alt="ravikrs" /></p>
