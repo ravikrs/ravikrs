@@ -7,7 +7,7 @@ I am a software engineer working primarily as a Java/Spring Developer.
 ## Certifications :trophy:
 
 <!--START_SECTION:badges-->
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/2d08752a-612c-4a31-8b95-10ef5fb92275 "CKAD: Certified Kubernetes Application Developer")
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/749c3b10-5a93-4974-b03b-20704b7892be/public_url")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/527acd44-a7f1-4db7-88f9-8ac6a29dcbaa "Microsoft Certified: Azure Fundamentals")
 [![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/1b92607e-def3-4005-bb8d-fb62c3477914 "Microsoft Certified: Azure Developer Associate")
 [![Oracle Certified Professional: Java SE 11 Developer](https://images.credly.com/size/110x110/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png)](http://www.credly.com/badges/4c4d6890-c3d7-4a08-beb5-f7beccde2616 "Oracle Certified Professional: Java SE 11 Developer")
